@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">आशा लसीकरण</string>
+    <string name="title_activity_main">आशा लसीकरण</string>
+    <string name="package_name">com.ashavaccination.app</string>
+    <string name="custom_url_scheme">com.ashavaccination.app</string>
+</resources>
